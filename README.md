@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1203-print-in-order](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/1203-print-in-order) |
 | [1216-print-zero-even-odd](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/1216-print-zero-even-odd) |
 | [1316-fizz-buzz-multithreaded](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/1316-fizz-buzz-multithreaded) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
