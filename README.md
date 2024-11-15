@@ -17,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0303-range-sum-query-immutable) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
