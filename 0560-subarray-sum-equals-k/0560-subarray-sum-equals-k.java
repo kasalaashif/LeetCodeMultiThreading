@@ -4,14 +4,13 @@ class Solution {
         int prefixSum = 0;
         prefixSumArray.put(0,1);
         int count=0;
-        for(int i=0; i< nums.length; i++)
+        for(int num : nums)
         {
-            prefixSum += nums[i];
+            prefixSum += num;
             if(prefixSumArray.containsKey(prefixSum-k))
                 count += prefixSumArray.get(prefixSum-k);
-            prefixSumArray.put(prefixSum,prefixSumArray.getOrDefault(prefixSum, 0)+1);  
+            prefixSumArray.put(prefixSum, prefixSumArray.getOrDefault(prefixSum, 0)+1);  
         }
-        
         return count;
     }
 }
