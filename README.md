@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0560-subarray-sum-equals-k) |
 ## Design
 |  |
@@ -30,9 +31,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
