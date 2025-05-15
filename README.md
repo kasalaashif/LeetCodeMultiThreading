@@ -58,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0643-maximum-average-subarray-i) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/kasalaashif/LeetCodeMultiThreading/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
